@@ -16,6 +16,7 @@ function Home() {
         <div className="feature">
           <h2 className="feature-title">Report a Problem</h2>
           <p className="feature-description">Report water-related issues such as supply disruptions, low pressure, or water quality problems online.</p>
+          <Link to="/view-complain" className="feature-link">View Complain</Link>
         </div>
         <div className="feature">
           <h2 className="feature-title">Water Quality Check</h2>
